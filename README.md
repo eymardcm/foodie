@@ -1,1 +1,1 @@
-#foodie
+# NextJS - A Food Lovers App
