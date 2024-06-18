@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@azure/data-tables": "^13.2.2",
+    "@azure/storage-blob": "^12.23.0",
     "better-sqlite3": "^11.0.0",
     "next": "14.0.3",
     "react": "^18",
     "react-dom": "^18",
     "slugify": "^1.6.6",
+    "uuid": "^10.0.0",
     "xss": "^1.0.15"
   },
   "devDependencies": {
